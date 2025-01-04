@@ -30,3 +30,30 @@ nav {
     font-weight: 600;
     font-style: italic;
 }
+
+.blogs-container {
+    margin: 50px 0px;
+    padding: 0px 30px;
+}
+
+.blogs-section-title {
+    text-align: center;
+    font-size: 30px;
+    color: #333;
+}
+
+.blog {
+    margin-top: 20px;
+}
+
+.blog-one {
+    margin-top: 50px;
+}
+
+.blog-title {
+    margin-bottom: 10px;
+}
+
+.blog-description {
+    text-align: justify;
+}
