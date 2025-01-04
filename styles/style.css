@@ -36,7 +36,7 @@ nav {
     padding: 0px 30px;
 }
 
-.blogs-section-title {
+.section-title {
     text-align: center;
     font-size: 30px;
     color: #333;
@@ -56,4 +56,27 @@ nav {
 
 .blog-description {
     text-align: justify;
+}
+
+/* About Section Style */
+.about-section {
+    padding: 30px;
+}
+
+.about-section .section-title {
+    margin-bottom: 50px;
+}
+
+.about-para {
+    margin: 15px 0px;
+}
+
+.about-img {
+    border-radius: 8px;
+    border: 2px solid #333;
+    box-shadow: 3px 3px 4px #aaa;
+}
+
+.pair-title {
+    margin-top: 40px;
 }
